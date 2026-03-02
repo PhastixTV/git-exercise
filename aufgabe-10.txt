@@ -1,0 +1,7 @@
+1. Das was ich mit "rm" gelöscht habe, hat ein rotes "D" davor.
+Das was ich mit "git rm" gelöscht habe, hat ein grünes "D" davor.
+
+2. git reset --hard
+
+3. Wenn man "git mv" macht, wird es wie richtig getracked das der name file geändert wird.
+Bei "mv" wird einfach gesagt das alte file wurde gelöscht und es gibt ein neues File mit dem Namen.
