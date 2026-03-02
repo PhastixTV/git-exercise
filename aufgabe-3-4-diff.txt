@@ -1,0 +1,1 @@
+Bei foo.txt & bar.txt steht jetzt ein "A" statt ein "??"
